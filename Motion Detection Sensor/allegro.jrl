@@ -1,0 +1,49 @@
+\t (00:00:04) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Tue Jun 06 19:15:36 2023
+\t (00:00:04)         Host=DESKTOP-115BSFR User=Radu Pid=8444 CPUs=9
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: C:/Users/Radu/Documents/TIE/Proiect/TIE proiect arhiva/PROIECT TIE_v2.brd
+\i (00:00:05) trapsize 5645
+\i (00:00:05) trapsize 5892
+\i (00:00:05) trapsize 5892
+\i (00:00:06) trapsize 5261
+\i (00:00:06) generaledit 
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 16222.83 9105.09
+\i (00:00:07) trapsize 10522
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 15612.55 9105.09
+\i (00:00:07) trapsize 15654
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 20068.14 6605.89
+\i (00:00:07) trapsize 15654
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 20475.14 8703.50
+\i (00:00:07) trapsize 7827
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 17196.13 8703.50
+\i (00:00:07) trapsize 3913
+\i (00:00:13) ncdrill param 
+\i (00:00:13) generaledit 
+\i (00:00:18) setwindow form.nc_parameters
+\i (00:00:18) FORM nc_parameters cancel  
+\i (00:00:22) setwindow pcb
+\i (00:00:22) nctape_full 
+\i (00:00:35) setwindow form.nc_drill
+\i (00:00:35) FORM nc_drill execute  
+\t (00:00:35) Starting Generating NC Drill...
+\i (00:00:43) FORM nc_drill cancel  
+\i (00:00:43) setwindow pcb
+\i (00:00:43) generaledit 
+\i (00:00:47) exit 
+\e (00:00:47) Do you want to save the changes you made to PROIECT TIE_v2.brd?
+\i (00:00:49) fillin yes 
+\t (00:00:50)     Journal end - Tue Jun 06 19:16:21 2023

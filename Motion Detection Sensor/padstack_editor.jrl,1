@@ -1,0 +1,7 @@
+\t (00:00:00) padstack_editor 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Jun 02 16:34:47 2023
+\t (00:00:00)         Host=DESKTOP-115BSFR User=Radu Pid=660 CPUs=9
+\t (00:00:00) CmdLine= padstack_editor -mpssession Radu -file ./#Taaaaam08412.tmp -pname SMD50_25-1 -data C:/Users/Radu/AppData/Local/Temp/#Taaaaao08412.tmp
+\t (00:00:00) 
+\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\t (00:00:05)     Journal end - Fri Jun 02 16:34:52 2023

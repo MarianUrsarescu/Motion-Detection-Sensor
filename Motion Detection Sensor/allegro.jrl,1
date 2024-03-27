@@ -1,0 +1,163 @@
+\t (00:00:04) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Tue Jun 06 14:27:46 2023
+\t (00:00:04)         Host=DESKTOP-115BSFR User=Radu Pid=6508 CPUs=9
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:07) Design opened: C:/Users/Radu/Documents/TIE/Proiect/TIE proiect arhiva/PROIECT TIE_v2.brd
+\i (00:00:07) trapsize 8398
+\i (00:00:07) trapsize 8765
+\i (00:00:07) trapsize 8765
+\i (00:00:07) trapsize 7827
+\i (00:00:08) generaledit 
+\i (00:00:11) color192 
+\i (00:00:11) generaledit 
+\i (00:00:13) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:00:13) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:00:15) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:00:17) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:00:18) QtSignal CVDLayerTable VertHeader clickedCheckBox 8
+\i (00:00:18) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
+\i (00:00:22) QtSignal CVDLayerTable VertHeader clickedCheckBox 9
+\i (00:00:22) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 9 0
+\i (00:00:23) QtSignal CVDLayerTable VertHeader clickedCheckBox 8
+\i (00:00:23) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
+\i (00:00:27) QtSignal ColorVisibilityDialog CVDTabs currentChanged Display
+\i (00:00:33) QtSignal ColorVisibilityDialog CVDTabs currentChanged Favorites
+\i (00:00:33) QtSignal Classes CVDVisibleClassSelector currentRowChanged 0
+\i (00:00:33) QtSignal ColorVisibilityDialog CVDTabs currentChanged "Visibility Pane"
+\i (00:00:35) QtSignal ColorVisibilityDialog CVDTabs currentChanged Layers
+\i (00:00:37) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Drawing format"
+\i (00:00:37) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:00:39) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 3 0
+\i (00:00:39) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
+\i (00:00:39) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:40) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 4 0
+\i (00:00:40) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (00:00:40) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:40) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 2 0
+\i (00:00:40) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (00:00:40) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:43) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:43) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:44) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 14 0
+\i (00:00:44) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 14 0
+\i (00:00:44) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:46) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in 17407.46 7415.21
+\i (00:00:47) trapsize 3913
+\i (00:00:47) zoom out 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out 17689.23 7516.96
+\i (00:00:47) trapsize 7827
+\i (00:00:47) zoom out 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out 17689.23 7516.97
+\i (00:00:47) trapsize 15654
+\i (00:00:47) zoom out 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out 23167.59 6198.89
+\i (00:00:47) trapsize 15654
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 21602.21 8609.58
+\i (00:00:48) trapsize 7827
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 17759.67 8609.58
+\i (00:00:48) trapsize 3913
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 18299.73 8507.84
+\i (00:00:48) trapsize 7827
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 18299.73 8507.83
+\i (00:00:48) trapsize 15654
+\i (00:00:49) zoom in 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom in 23511.97 9173.11
+\i (00:00:49) trapsize 7827
+\i (00:00:53) plot preview 
+\i (00:00:57) zoom points 
+\t (00:00:57) Pick 1st corner of the new window.
+\i (00:00:58) pick 13047.88 11928.18
+\t (00:00:58) last pick:  13047.88 11928.18
+\t (00:00:58) Pick to complete the window.
+\i (00:01:00) pick 19121.55 6214.55
+\t (00:01:00) last pick:  19121.55 6214.55
+\i (00:01:00) trapsize 5261
+\i (00:01:03) plot preview 
+\i (00:01:10) plot 
+\i (00:01:11) plotwint initialize "Microsoft Print to PDF"
+\i (00:01:11) plotwint orientation 2
+\i (00:01:11) plotwint papername "A4"
+\i (00:01:11) plotwint copies 1
+\i (00:01:11) plotwint defaultsource 15
+\i (00:01:11) plotwint printquality 600
+\i (00:01:11) plotwint color 2
+\i (00:01:11) plotwint execute
+\i (00:08:15) color192 
+\i (00:08:15) generaledit 
+\i (00:08:16) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:08:20) color192 
+\i (00:08:20) generaledit 
+\i (00:08:21) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:08:22) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:08:23) zoom in 1 
+\i (00:08:23) setwindow pcb
+\i (00:08:23) zoom in 18863.96 9876.32
+\i (00:08:23) trapsize 2631
+\i (00:08:23) zoom in 1 
+\i (00:08:23) setwindow pcb
+\i (00:08:23) zoom in 18863.96 9876.33
+\i (00:08:23) trapsize 1315
+\i (00:08:24) zoom out 1 
+\i (00:08:24) setwindow pcb
+\i (00:08:24) zoom out 18598.27 9776.37
+\i (00:08:24) trapsize 2631
+\i (00:08:24) zoom out 1 
+\i (00:08:24) setwindow pcb
+\i (00:08:24) zoom out 18582.49 9750.07
+\i (00:08:24) trapsize 5261
+\i (00:08:25) zoom in 1 
+\i (00:08:25) setwindow pcb
+\i (00:08:25) zoom in 18074.78 9971.04
+\i (00:08:25) trapsize 2631
+\i (00:15:09) zoom out 1 
+\i (00:15:09) setwindow pcb
+\i (00:15:09) zoom out 18253.66 8624.18
+\i (00:15:09) trapsize 5261
+\i (00:15:09) zoom out 1 
+\i (00:15:09) setwindow pcb
+\i (00:15:09) zoom out 18337.84 8392.69
+\i (00:15:09) trapsize 10522
+\i (00:15:10) zoom in 1 
+\i (00:15:10) setwindow pcb
+\i (00:15:10) zoom in 16054.49 6624.95
+\i (00:15:10) trapsize 5261
+\i (00:15:10) zoom in 1 
+\i (00:15:10) setwindow pcb
+\i (00:15:10) zoom in 16296.50 7014.28
+\i (00:15:10) trapsize 2631
+\i (00:15:10) zoom out 1 
+\i (00:15:10) setwindow pcb
+\i (00:15:10) zoom out 16696.35 7466.74
+\i (00:15:10) trapsize 5261
+\i (00:15:10) zoom out 1 
+\i (00:15:10) setwindow pcb
+\i (00:15:10) zoom out 16685.83 7498.32
+\i (00:15:10) trapsize 10522
+\i (00:15:11) zoom in 1 
+\i (00:15:11) setwindow pcb
+\i (00:15:11) zoom in 18264.18 10612.94
+\i (00:15:11) trapsize 5261
+\i (00:15:17) pick grid 12760.98 7666.67
+\t (00:15:17) last pick:  12750.00 7675.00
+\i (00:15:18) exit 
+\e (00:15:18) Do you want to save the changes you made to PROIECT TIE_v2.brd?
+\i (00:15:20) fillin yes 
+\t (00:15:21)     Journal end - Tue Jun 06 14:43:03 2023

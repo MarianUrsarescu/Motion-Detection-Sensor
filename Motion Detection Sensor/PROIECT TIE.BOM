@@ -1,0 +1,24 @@
+  Revised: Thursday, May 25, 2023
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials           June 1,2023      15:57:29	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	10nF
+2	1	C2	100uF/16V
+3	1	D1	led
+4	1	J1	CON2
+5	2	R1,R2	1k
+6	1	R3	470
+7	1	R4	100k
+8	1	U3	555
+9	1	U4	buzzer
+10	1	U5	IR sensor
